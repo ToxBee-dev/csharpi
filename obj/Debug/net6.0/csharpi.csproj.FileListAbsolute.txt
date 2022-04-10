@@ -1,0 +1,15 @@
+C:\Users\dschu\csharpi\bin\Debug\net6.0\csharpi.exe
+C:\Users\dschu\csharpi\bin\Debug\net6.0\csharpi.deps.json
+C:\Users\dschu\csharpi\bin\Debug\net6.0\csharpi.runtimeconfig.json
+C:\Users\dschu\csharpi\bin\Debug\net6.0\csharpi.dll
+C:\Users\dschu\csharpi\bin\Debug\net6.0\csharpi.pdb
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.csproj.AssemblyReference.cache
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.AssemblyInfoInputs.cache
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.AssemblyInfo.cs
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.csproj.CoreCompileInputs.cache
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.dll
+C:\Users\dschu\csharpi\obj\Debug\net6.0\refint\csharpi.dll
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.pdb
+C:\Users\dschu\csharpi\obj\Debug\net6.0\csharpi.genruntimeconfig.cache
+C:\Users\dschu\csharpi\obj\Debug\net6.0\ref\csharpi.dll
